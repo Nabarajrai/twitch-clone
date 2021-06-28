@@ -1,0 +1,16 @@
+.Header {
+  background-color: rgb(147, 228, 231);
+  padding: 10px;
+  border-bottom: 4px solid wheat;
+}
+.Row .Col > h3 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.Row .Col .Link {
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #000;
+}
